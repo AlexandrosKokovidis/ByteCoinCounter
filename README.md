@@ -5,7 +5,7 @@ You can choose the coin you want and also the type of currency, by scrolling the
 
 ### Details Info
 
-* Readable area for diplaying the value of the byte coin in type of currency you have choose
+* Readable area displaying the value of the byte coin at type of currency you have choose.
 * Two different picker with indepent control.
 
 <img width="396" alt="byteCoinCounter" src="https://user-images.githubusercontent.com/32853291/199743218-62b4e420-3961-4546-bd0e-add020980193.png">
