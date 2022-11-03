@@ -1,25 +1,13 @@
 ## About this app
 
-
-## What we have accomplished
-
-* How to create a dark-mode enabled app.
-* How to use vector images as image assets.
-* Learn to use the UITextField to get user input. 
-* Learn about the delegate pattern.
-* Swift protocols and extensions. 
-* Swift guard keyword. 
-* Swift computed properties.
-* Swift closures and completion handlers.
-* Learn to use URLSession to network and make HTTP requests.
-* Parse JSON with the native Encodable and Decodable protocols. 
-* Learn to use Grand Central Dispatch to fetch the main thread.
-* Learn to use Core Location to get the current location from the phone GPS. 
+This is an application for checking the current value of byte coins, choosing also the type of currency you want.
 
 ### Details Info
 
+* Readable area for diplaying the value of the byte coin in type of currency you have choose
+* Two different picker with indepent control.
 
-
+<img width="396" alt="byteCoinCounter" src="https://user-images.githubusercontent.com/32853291/199743218-62b4e420-3961-4546-bd0e-add020980193.png">
 
 
 >* This app has been created for training / learning purpose, following the courses below.
