@@ -1,6 +1,7 @@
 ## About this app
 
-This is an application for checking the current value of byte coins, choosing also the type of currency you want.
+This is an application for checking the current value of byte coins.
+You can choose the coin you want and also the type of currency, by scrolling the pickers at the bottom of your screen.
 
 ### Details Info
 
