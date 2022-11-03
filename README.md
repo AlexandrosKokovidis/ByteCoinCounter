@@ -13,7 +13,7 @@ You can choose the coin you want and also the type of currency, by scrolling the
 
 >* This app has been created for training / learning purpose, following the courses below.
 
->* Copyright © 2022 App Brewery. All rights reserved.
+>* Copyright © 2022 App Brewery. All rights reserved to App Brewery.
 
 >* This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co]
 >* (https://www.appbrewery.co/)
